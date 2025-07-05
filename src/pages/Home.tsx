@@ -229,11 +229,11 @@ const Home = () => {
           </div>
           
           <div className="grid md:grid-cols-2 gap-12 max-w-6xl mx-auto">
-            {/* Dr. Michael */}
+            {/* Dr. Karthikeyan */}
             <div className="group bg-gradient-to-br from-blue-50 to-teal-50 p-8 rounded-3xl text-center hover:shadow-2xl transition-all duration-300 hover:-translate-y-2 animate-fadeInUp">
               <div className="w-40 h-40 mx-auto mb-6 overflow-hidden rounded-full shadow-lg border-4 border-blue-200">
                 <img
-                  src="/images/doctors/karthi.jpg"
+                  src="/primespot/images/doctors/karthi.jpg"
                   alt="Dr. Karthikeyan PrimeSpot"
                   className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-300"
                 />
@@ -245,11 +245,11 @@ const Home = () => {
               </p>
             </div>
             
-            {/* Dr. David */}
+            {/* Dr. Prakash */}
             <div className="group bg-gradient-to-br from-green-50 to-blue-50 p-8 rounded-3xl text-center hover:shadow-2xl transition-all duration-300 hover:-translate-y-2 animate-fadeInUp" style={{ animationDelay: '0.1s' }}>
               <div className="w-40 h-40 mx-auto mb-6 overflow-hidden rounded-full shadow-lg border-4 border-green-200">
                 <img
-                  src="= /images/doctors/prakash.jpg"
+                  src="/primespot/images/doctors/prakash.jpg"
                   alt="Dr. Prakash PrimeSpot"
                   className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-300"
                 />

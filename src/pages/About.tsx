@@ -96,7 +96,7 @@ const About = () => {
               <div className="text-center mb-6">
                 <div className="w-48 h-48 mx-auto mb-6 overflow-hidden rounded-full shadow-lg border-4 border-blue-200">
                   <img
-                    src="/images/doctors/karthi.jpg"
+                    src="/primespot/images/doctors/karthi.jpg" 
                     alt="Dr. Karthikeyan PrimeSpot"
                     className="w-full h-full object-cover"
                   />
@@ -138,7 +138,7 @@ const About = () => {
               <div className="text-center mb-6">
                 <div className="w-48 h-48 mx-auto mb-6 overflow-hidden rounded-full shadow-lg border-4 border-green-200">
                   <img
-                    src="/images/doctors/prakash.jpg"
+                    src="/primespot/images/doctors/prakash.jpg"
                     alt="Dr. Prakash PrimeSpot"
                     className="w-full h-full object-cover"
                   />
