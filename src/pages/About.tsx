@@ -97,7 +97,7 @@ const About = () => {
                 <div className="w-48 h-48 mx-auto mb-6 overflow-hidden rounded-full shadow-lg border-4 border-blue-200">
                   <img
                     src="/images/doctors/karthi.jpg"
-                    alt="Dr. Michael PrimeSpot"
+                    alt="Dr. Karthikeyan PrimeSpot"
                     className="w-full h-full object-cover"
                   />
                 </div>

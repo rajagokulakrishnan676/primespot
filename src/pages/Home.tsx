@@ -233,8 +233,8 @@ const Home = () => {
             <div className="group bg-gradient-to-br from-blue-50 to-teal-50 p-8 rounded-3xl text-center hover:shadow-2xl transition-all duration-300 hover:-translate-y-2 animate-fadeInUp">
               <div className="w-40 h-40 mx-auto mb-6 overflow-hidden rounded-full shadow-lg border-4 border-blue-200">
                 <img
-                  src="https://images.pexels.com/photos/5452201/pexels-photo-5452201.jpeg?auto=compress&cs=tinysrgb&w=400"
-                  alt="Dr. Michael PrimeSpot"
+                  src="/images/doctors/karthi.jpg"
+                  alt="Dr. Karthikeyan PrimeSpot"
                   className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-300"
                 />
               </div>
@@ -249,8 +249,8 @@ const Home = () => {
             <div className="group bg-gradient-to-br from-green-50 to-blue-50 p-8 rounded-3xl text-center hover:shadow-2xl transition-all duration-300 hover:-translate-y-2 animate-fadeInUp" style={{ animationDelay: '0.1s' }}>
               <div className="w-40 h-40 mx-auto mb-6 overflow-hidden rounded-full shadow-lg border-4 border-green-200">
                 <img
-                  src="https://images.pexels.com/photos/5452293/pexels-photo-5452293.jpeg?auto=compress&cs=tinysrgb&w=400"
-                  alt="Dr. David PrimeSpot"
+                  src="= /images/doctors/prakash.jpg"
+                  alt="Dr. Prakash PrimeSpot"
                   className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-300"
                 />
               </div>
